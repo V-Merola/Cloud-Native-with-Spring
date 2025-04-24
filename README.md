@@ -37,6 +37,7 @@ _Nota: Altri microservizi verranno aggiunti in futuro._
 ## 📜 Roadmap di sviluppo
 
 Questa è la roadmap del mio percorso di sviluppo, dove documenterò i passi intrapresi nella realizzazione di questo progetto, incluse le scelte tecniche, i concetti appresi e le sfide affrontate.
+
 Per leggere la roadmap completa, vai alla Wiki del progetto:
 
 - [Roadmap del progetto Cloud Native con Spring](https://github.com/V-Merola/Cloud-Native-with-Spring/wiki)
