@@ -23,16 +23,6 @@ _Nota: Altri microservizi verranno aggiunti in futuro._
 - **Prometheus & Grafana** - Per il monitoraggio e la raccolta di metriche.
 - **Eureka** - Per il Service Discovery.
 
-## 🚀 Come avviare il progetto
-
-1. **Clona il repository:**
-
-   ```bash
-   git clone https://github.com/V-Merola/cloud-native-with-spring.git
-   cd cloud-native-with-spring
-
-  **Nota: Questo progetto è in fase di sviluppo e potrebbero esserci nuove funzionalità aggiunte nel tempo. Ogni microservizio verrà documentato separatamente nella sua rispettiva repo. Per il momento l'unico servizio implementato è Catalog Service**
- 
 
 ## 📜 Roadmap di sviluppo
 
@@ -42,7 +32,8 @@ Per leggere la roadmap completa, vai alla Wiki del progetto:
 
 - [Roadmap del progetto Cloud Native con Spring](https://github.com/V-Merola/Cloud-Native-with-Spring/wiki)
 
-
+## 🚀 Nota:
+Questo progetto è in fase di sviluppo e potrebbero esserci nuove funzionalità aggiunte nel tempo. Ogni microservizio verrà documentato separatamente nella sua rispettiva repo. Per il momento l'unico servizio implementato è Catalog Service**
 
 ## 📖 Risorse e Documentazione
 
