@@ -30,3 +30,29 @@ _Nota: Altri microservizi verranno aggiunti in futuro._
    ```bash
    git clone https://github.com/V-Merola/cloud-native-with-spring.git
    cd cloud-native-with-spring
+
+  **Nota: Questo progetto è in fase di sviluppo e potrebbero esserci nuove funzionalità aggiunte nel tempo. Ogni microservizio verrà documentato separatamente nella sua rispettiva repo. Per il momento l'unico servizio implementato è Catalog Service**
+ 
+
+## 📜 Roadmap di sviluppo
+
+Questa è la roadmap del mio percorso di sviluppo, dove documenterò i passi intrapresi nella realizzazione di questo progetto, incluse le scelte tecniche, i concetti appresi e le sfide affrontate.
+Per leggere la roadmap completa, vai alla Wiki del progetto:
+
+- [Roadmap del progetto Cloud Native con Spring](https://github.com/V-Merola/Cloud-Native-with-Spring/wiki)
+
+
+
+## 📖 Risorse e Documentazione
+
+- [Repo originale del libro *Cloud Native Spring in Action* di Thomas Vitale](https://github.com/ThomasVitale/cloud-native-spring-in-action/tree/main)
+- [Spring Boot Documentation](https://spring.io/projects/spring-boot)
+- [Docker Documentation](https://docs.docker.com/)
+- [Kubernetes Documentation](https://kubernetes.io/docs/)
+- [Kafka Documentation](https://kafka.apache.org/documentation/)
+
+## 💬 Contatti
+Per qualsiasi domanda o suggerimento, sentiti libero di aprire un issue o scrivimi direttamente.
+
+
+   
