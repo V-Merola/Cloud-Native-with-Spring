@@ -14,11 +14,19 @@ Per leggere la roadmap completa, vai alla Wiki del progetto:
 
 - [Roadmap del progetto Cloud Native con Spring](https://github.com/V-Merola/Cloud-Native-with-Spring/wiki)
 
-### 📦 Microservizi inclusi nel progetto
-Al momento il progetto include i seguenti microservizi:
+### 📦 Servizi inclusi nel progetto
+Al momento il progetto include i seguenti servizi:
 
-- **Catalog Service** - Gestisce il catalogo dei prodotti.  
+- **Catalog Service** - Gestisce il catalogo dei prodotti.
+    
   [Vai alla repo del Catalog Service](https://github.com/V-Merola/catalog-service)
+- **Config Service** - Centralizza la configurazione.
+  
+  [Vai alla repo del Config Service](https://github.com/V-Merola/config-service)
+
+- **Config Repository** - Backend della configurazione
+
+  [Vai alla repo della configurazione](https://github.com/V-Merola/configuration-repo)
 
 _Nota: Altri microservizi verranno aggiunti in futuro._
 
@@ -33,7 +41,7 @@ _Nota: Altri microservizi verranno aggiunti in futuro._
 
 
 ## 🚀 Nota:
-Questo progetto è in fase di sviluppo e potrebbero esserci nuove funzionalità aggiunte nel tempo. Ogni microservizio verrà documentato separatamente nella sua rispettiva repo. Per il momento l'unico servizio implementato è Catalog Service**
+Questo progetto è in fase di sviluppo e potrebbero esserci nuove funzionalità aggiunte nel tempo. Ogni microservizio verrà documentato separatamente nella sua rispettiva repo. 
 
 ## 📖 Risorse e Documentazione
 
